@@ -26,7 +26,7 @@ import React from 'react';
             placeholder="Enter here"
           />
         </div>
-        <img loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/7f9e40bffba4879ef34dbb02f1a2b686228b238f5dd7882c0f6ebbe846e14c4f?placeholderIfAbsent=true&apiKey=cc964368bac44d9ca0eed220fa7a4da9" alt="" className="object-contain self-center mt-1 aspect-[20.83] stroke-[2px] stroke-slate-600 w-[41px]" />
+        <image loading="lazy" src="https://cdn.builder.io/api/v1/image/assets/TEMP/7f9e40bffba4879ef34dbb02f1a2b686228b238f5dd7882c0f6ebbe846e14c4f?placeholderIfAbsent=true&apiKey=cc964368bac44d9ca0eed220fa7a4da9" alt="" className="object-contain self-center mt-1 aspect-[20.83] stroke-[2px] stroke-slate-600 w-[41px]" />
       </form>
       <button className="flex gap-2.5 items-center self-end px-2 py-3.5 mt-2 text-sm font-medium text-white capitalize bg-indigo-600 rounded-md shadow-sm min-h-[36px]">
         Run Prompt
